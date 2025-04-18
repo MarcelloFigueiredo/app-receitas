@@ -10,4 +10,4 @@ Este é um projeto de um  *Buscador de Receitas* de acordo com o ingrediente,  d
 
 ## 🌐 Acesse Aqui
 
-Você pode acessar através deste [link](https://marcellofigueiredo.github.io/buscar-receitas/). Basta abrir no seu navegador e começar a usar!
+Você pode acessar através deste [link](https://marcellofigueiredo.github.io/app-receitas/). Basta abrir no seu navegador e começar a usar!
